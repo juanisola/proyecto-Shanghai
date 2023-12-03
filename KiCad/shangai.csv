@@ -1,0 +1,13 @@
+"Source:","C:\Users\juanc\OneDrive\Escritorio\KiCad-RP-Pico-main\RP-Pico Libraries\MCU_RaspberryPi_and_Boards.pretty\shangai\shangai.kicad_sch"
+"Date:","29/11/2023 00:27:01"
+"Tool:","Eeschema 7.0.9"
+"Generator:","C:\Program Files\KiCad\7.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","7"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP"
+"1","2","M1, M2","Motor_AC","Motor:Motor_AC","","~",""
+"2","2","Q1, Q2","BC337","Transistor_BJT:BC337","Package_TO_SOT_THT:TO-92_Inline","https://diotec.com/tl_files/diotec/files/pdf/datasheets/bc337.pdf",""
+"3","2","R1, R2","1k","Device:R","","~",""
+"4","1","U1","Pico","MCU_RaspberryPi_and_Boards:Pico","RPi_Pico:RPi_Pico_SMD_TH","",""
